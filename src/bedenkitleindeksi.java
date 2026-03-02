@@ -24,7 +24,7 @@ public class bedenkitleindeksi {
         else if (sonuc>=25 && sonuc<=29.9) {
             System.out.println("Kilolusunuz.");
         }
-        else if (sonuc>=30 && sonuc<=34.9) {
+        else if (sonuc>=30 && sonuc<=39.9) {
             System.out.println("Obezsiniz.");
         }
         else {
